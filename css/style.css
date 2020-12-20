@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Gugi&display=swap');
+
+.background {
+    width: 100%;
+    height: 100%;
+    position:fixed;
+    background-color: #fce9ea;
+}
+
+.circle {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #dd2b3b;
+    position: absolute;
+}
+
+@-webkit-keyframes 반짝 {
+    0% { opacity: 0%; }
+    50% { opacity: 100%; }
+    100% { opacity: 0%; }
+}
+
+.circle2 {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #dd2b3b;
+    position: absolute;
+    animation-name: 반짝;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+
+.이공이공 {
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    font-family: 'Gugi', cursive;
+    font-size: 170%; 
+    color: white;
+    position: absolute;
+    left: 3.78%;
+    top: 13%;
+    transform: rotate(9deg);
+}
+
+.올해 {
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    font-family: 'Gugi', cursive;
+    font-size: 170%; 
+    color: white;
+    position: absolute;
+    left: 41.3%;
+    top: 9%;
+    transform: rotate(13deg);
+}
+
+.크리스마스는 {
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    font-family: 'Gugi', cursive;
+    font-size: 170%; 
+    color: white;
+    position: absolute;
+    left: 66.2%;
+    top: 18%;
+    transform: rotate(12deg);
+}
+
+.모두를 {
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    font-family: 'Gugi', cursive;
+    font-size: 170%; 
+    color: white;
+    position: absolute;
+    left: 75.7%;
+    top: 9%;
+    transform: rotate(7deg);
+}
+
+.위하여 {
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    font-family: 'Gugi', cursive;
+    font-size: 170%; 
+    color: white;
+    position: absolute;
+    left: 17%;
+    top: 64%;
+    transform: rotate(12deg);
+}
+
+.랜선으로 {
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    font-family: 'Gugi', cursive;
+    font-size: 170%; 
+    color: white;
+    position: absolute;
+    left: 26.3%;
+    top: 48%;
+    transform: rotate(8deg);
+}
+
+.안전하게 {
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    font-family: 'Gugi', cursive;
+    font-size: 170%; 
+    color: white;
+    position: absolute;
+    left: 60.88%;
+    top: 55%;
+    transform: rotate(12deg);
+}
+
+.즐겨요 {
+    font-family: 'Gugi', cursive;
+    font-size: 170%; 
+    color: white;
+    position: absolute;
+    left: 73.5%;
+    top: 89.5%;
+}
+
+.클릭 {
+    font-family: 'Gugi', cursive;
+    font-size: 170%; 
+    color: white;
+    position: absolute;
+    left: 88.7%;
+    top: 42%;
+    background-color: #DD2B3B;
+}
+
+.전선 {
+    left: 86.1%; 
+    top: -32%;
+}
+
+.circle3 {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: yellow;
+    position: absolute;
+    opacity: 0%;
+}
+
+@-webkit-keyframes 번쩍 {
+    0% { opacity: 0%; }
+    50% { opacity: 100%; }
+    100% { opacity: 0%; }
+}
+
+.circle4 {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: yellow;
+    position: absolute;
+    animation-name: 번쩍;
+    animation-duration: unset;
+    opacity: 0%;
+    animation-iteration-count: infinite;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
